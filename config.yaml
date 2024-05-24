@@ -1,0 +1,11 @@
+# ----------------------------------------------------------------------- #
+#                                                                         #
+#                               YMAL文件语法                               #
+#                       http://medai.icu/thread/677                       #
+#                                                                         #
+# ----------------------------------------------------------------------- #
+radio_dir: Path for storing data
+label_file: Path for Annotated information file for each sample
+task_column: label
+dataset_column: group
+font.size: 12
